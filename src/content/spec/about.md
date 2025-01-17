@@ -3,4 +3,4 @@ title: 关于
 pubDate: 2025-01-17
 ---
 
-此主题系 Hexo 主题 <a href="https://github.com/sumimakito/hexo-theme-typography">活版印字</a> 在 Astro 平台上的移植版本
+> 在玩耍的年纪学习，在学习的年纪玩耍，在工作的年纪摸鱼，摸鱼的年纪工作。 —— 我

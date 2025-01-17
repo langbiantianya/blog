@@ -3,9 +3,9 @@ import type { UserConfig } from '~/types'
 export const userConfig: Partial<UserConfig> = {
   // Override the default config here
   site: {
-    title: '博客',
-    subtitle: 'Lanbiantianya',
-    author: 'Lanbiantianya',
+    title: '后日谈',
+    subtitle: '愿此行 终抵群星',
+    author: 'lanbiantianya',
     description: '',
     website: 'https://blog.kxxnzstdsw.com/',
     socialLinks: [{
