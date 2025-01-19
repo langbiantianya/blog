@@ -10,8 +10,8 @@ slug: 'svelte-meet-web-components'
 
 ## 介绍
 
-IE的退出为底层前端技术的发展注入了新活力。以往，为了确保在不同浏览器上的兼容性，Vue与React等主流框架引入了大量中间层来实现功能，这导致各框架构建了复杂的渲染生命周期，学习难度大，技术栈转换也不够便捷。但如今，随着新浏览器API的不断涌现以及ECMAScript标准与W3C标准的持续演进，原本依赖中间层实现的功能正逐步得到浏览器的原生支持。
-在这一趋势下，SvelteJS等框架脱颖而出。它没有在原生浏览器生命周期中添加过多额外的生命周期与上下文，却能实现与Vue和React相媲美的功能。SvelteJS的学习曲线较为平缓，非常适合刚学完HTML、CSS、JavaScript的开发者进阶学习。而且，熟悉SvelteJS后，再切换到Vue或React也会相对容易，因此越来越受到开发者的关注和喜爱。在编译时就将html、js、css一次性编译好，而不需要像vue与react一样在带一个运行时，生为后来者的他避开了以前框架的坑，站在了巨人的肩膀上，目前Start数量已经与3大框架差不了太多了。
+IE的退出为底层前端技术的发展注入了新活力。以往，为了确保在不同浏览器上的兼容性，Vue与React等主流框架引入了大量中间层来实现功能，这导致各框架构建了复杂的渲染生命周期，学习难度大，技术栈转换也不够便捷。但如今，随着新浏览器API的不断涌现以及ECMAScript标准与W3C标准的持续演进，原本依赖中间层实现的功能正逐步得到浏览器的原生支持。  
+在这一趋势下，SvelteJS等框架脱颖而出。它没有在原生浏览器生命周期中添加过多额外的生命周期与上下文，却能实现与Vue和React相媲美的功能。SvelteJS的学习曲线较为平缓，非常适合刚学完HTML、CSS、JavaScript的开发者进阶学习。而且，熟悉SvelteJS后，再切换到Vue或React也会相对容易，因此越来越受到开发者的关注和喜爱。在编译时就将html、js、css一次性编译好，而不需要像vue与react一样在带一个运行时，生为后来者的他避开了以前框架的坑，站在了巨人的肩膀上，目前Start数量已经与3大框架差不了太多了。  
 Web Component 标准的诞生为前端开发者带来了巨大便利，然而其问世时机稍显尴尬，恰逢 Vue、React、Angular 等框架风头正劲，导致其光芒被掩盖，至今仍就不温不火。但 Web Component 拥有独特优势，它基于浏览器接口实现，与所使用的 JavaScript 框架无关，只需编写一次组件，便可在多种框架中无缝使用。
 
 ## 上手
@@ -418,9 +418,9 @@ Web Component 标准的诞生为前端开发者带来了巨大便利，然而其
 
 ## 实际开发的例子
 
-例子的话上面2块代码的出处就是我写的2个项目。
-其中比较纯粹的web component请看这个[HyperLinkStretch](https://github.com/rerubbish/HyperLinkStretch)一个简单的Demo。
-结合了svelte与web component的请看这个[cherry-markdown-webview](https://github.com/langbiantianya/cherry-markdown-webview/tree/main/frontend)复杂一些的项目，目前还在持续开发中。
+例子的话上面2块代码的出处就是我写的2个项目。  
+其中比较纯粹的web component请看这个[HyperLinkStretch](https://github.com/rerubbish/HyperLinkStretch)一个简单的Demo。  
+结合了svelte与web component的请看这个[cherry-markdown-webview](https://github.com/langbiantianya/cherry-markdown-webview/tree/main/frontend)复杂一些的项目，目前还在持续开发中。  
 
 ## 个人认为的未来趋势
 
