@@ -38,4 +38,7 @@ export const userConfig: Partial<UserConfig> = {
       loading: 'lazy',
     },
   },
+  analytics: {
+    googleAnalyticsId: 'G-T88GC36TN2',
+  },
 }
