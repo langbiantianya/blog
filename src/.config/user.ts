@@ -22,5 +22,20 @@ export const userConfig: Partial<UserConfig> = {
       'Proudly published with <a target="_blank" href="https://astro.build/">Astro</a>',
     ],
   },
-
+  comment: {
+    giscus: {
+      repo: 'langbiantianya/blog',
+      repoId: 'R_kgDONrdozQ',
+      category: 'General',
+      categoryId: 'DIC_kwDONrdozc4CmLF0',
+      mapping: 'pathname',
+      strict: '0',
+      reactionsEnabled: '1',
+      emitMetadata: '0',
+      inputPosition: 'bottom',
+      theme: 'preferred_color_scheme',
+      lang: 'zh-CN',
+      loading: 'lazy',
+    },
+  },
 }
