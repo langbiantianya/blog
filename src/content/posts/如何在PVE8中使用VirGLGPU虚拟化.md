@@ -23,10 +23,10 @@ apt install mesa libgl1 libegl1
 2. 下载虚拟机用的[Windows_VirtIO_Drivers](https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers)驱动,普遍情况是只有windwos才需要下载，大部分内核版本新一点的基本不需要，只要安装mesa就够了。
 
 3. 修改虚拟机的显示配置为VirGl GPU
-   ![显示配置](如何在PVE8中使用VirGLGPU虚拟化/显示配置.png)
+   ![显示配置](../../assets/virgl-gpu-virtualization/displayConf.png)
 
 4. 宿主机中安装`mesa`或者[Windows_VirtIO_Drivers](https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers)
-   ![windwos](如何在PVE8中使用VirGLGPU虚拟化/windows_install.png)
-   ![windwos virt GPU](如何在PVE8中使用VirGLGPU虚拟化/windwos_virtIO.png)
+   ![windwos](../../assets/virgl-gpu-virtualization/windows_install.png)
+   ![windwos virt GPU](../../assets/virgl-gpu-virtualization/windwos_virtIO.png)
    linux中加速的效果，以openSUSE tumbleweed举例。
-   ![openSUSE virt GPU](如何在PVE8中使用VirGLGPU虚拟化/openSUSE_virtIO.png)
+   ![openSUSE virt GPU](../../assets/virgl-gpu-virtualization/openSUSE_virtIO.png)
