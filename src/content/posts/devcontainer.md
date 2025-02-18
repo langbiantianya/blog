@@ -1,6 +1,6 @@
 ---
 title: devcontainer让我免于今日的加班
-pubDate: 2025-01-17
+pubDate: 2025-02-18
 categories: ['devcontainer','java','docker','vscode']
 description: '开发过程最怕环境boom，这时就需要devcontainer来拯救你了'
 slug: devcontainer-saved-me
