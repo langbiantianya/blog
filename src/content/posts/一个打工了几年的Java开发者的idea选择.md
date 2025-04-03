@@ -1,12 +1,10 @@
 ---
-title: 一个打工了几年的Java开发者的ide选择
+title: 一个打工了几年的Java开发者打算换掉idea了
 pubDate: 2025-04-04
 categories: ['idea','vscode','eclipse','netbeans']
-description: '为什么这么多ide对java开发者的钱包这么不友好'
+description: '为什么java开发者使用ide对钱包这么不友好'
 slug: 'ide-java-developer'
 ---
-
-# 一个打工了几年的Java开发者
 
 ## 介绍下我自己
 
