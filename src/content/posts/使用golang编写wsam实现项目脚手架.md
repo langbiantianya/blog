@@ -6,7 +6,7 @@ description: '通过是golang编写生成器的逻辑然后编译为wasm在web�
 slug: 'golang-wsam-gen-java-project'
 ---
 
-# 为何做出这样的技术选型
+## 为何做出这样的技术选型
 
 由于我自己的服务器资源紧张，也不想在这上面多花钱，就想到webassembly这个技术。全部编译成静态资源托管到cloudflare的page上面，就如同我这个博客一样。 面对这样的需求我一下子就想到对wasm支持比较好的rust、golang和kotlin，但是由于我对rust不怎么感兴趣也没学过就成了golang与kotlin二选一的结局了。最后考虑到kotlin跨平台目前使用的前端UI还是jetpack，我自己对android开发不熟悉，最后选了golang的go-app来实现这一需求。至于js呢，js对于二进制文件的处理以及io方面的操作不是很方便，加上go标准库的优秀以及wasm运行效率上区别，还有就是我想用些有趣的方式去实现。
 
