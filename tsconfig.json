@@ -1,17 +1,24 @@
 {
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
-    "lib": ["esnext", "dom"],
     "baseUrl": ".",
+    "strictNullChecks": true,
+    "allowJs": false,
+    "declaration": true,
+    "plugins": [
+      {
+        "name": "@astrojs/ts-plugin"
+      }
+    ],
     "paths": {
-      "~/*": ["src/*"]
+      "@components/*": ["src/components/*"],
+      "@assets/*": ["src/assets/*"],
+      "@constants/*": ["src/constants/*"],
+      "@utils/*": ["src/utils/*"],
+      "@i18n/*": ["src/i18n/*"],
+      "@layouts/*": ["src/layouts/*"],
+      "@/*": ["src/*"]
     }
   },
-  "include": [
-    "src/**/*.astro",
-    "src/**/*.ts",
-    ".astro/types.d.ts",
-    "**/*"
-  ],
-  "exclude": ["dist"]
+  "include": ["src/**/*"]
 }

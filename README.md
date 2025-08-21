@@ -1,210 +1,99 @@
-# Typography
+# 🍥Fuwari  
+![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen) 
+![pnpm >= 9](https://img.shields.io/badge/pnpm-%3E%3D9-blue) 
+[![DeepWiki](https://img.shields.io/badge/DeepWiki-saicaca%2Ffuwari-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/saicaca/fuwari)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_shield&issueType=license)
 
-<p align='center'>
-  <img src='./public/typograph-og.jpg' alt='Typography' width='600'/>
-</p>
+A static blog template built with [Astro](https://astro.build).
 
-<h6 align='center'>
-<a href="https://astro-theme-typography.vercel.app/">Live Demo</a>
-</h6>
-<h5 align='center'>
-<b>This work is rewrite from <a href="https://github.com/sumimakito/hexo-theme-typography">hexo-theme-Typography</a></b>
-</h5>
-<p align='center'>
-<b>English</b> | <a href="./README.zh-CN.md">简体中文</a>
-</p>
+[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
 
-## Features
+![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
-- Build with **Astro**, **TypeScript** and **UnoCSS**
-- **Fast**. 100% [Pagespeed Score](https://pagespeed.web.dev/analysis/https-astro-theme-typography-vercel-app/j34nq9tx0s?form_factor=desktop).
-- **Typography** Derived from prevalent Chinese typographic norms and aims to provide an enhanced reading experience for website visitors.
-- **Responsive**. Responsive and works well on all screen sizes.
-- **Accessible**. A well thought out semantic and accessible content.
-- **SEO friendly**.Open Graph and Twitter Cards support for a better social sharing experience.
-- **Sitemap** and **RSS feed** for search engines.
-- i18n support.
-- Support Disqus, Giscus, Twikoo as comment service.
-- Dark mode support.
+🌏 README in
+[**中文**](https://github.com/saicaca/fuwari/blob/main/docs/README.zh-CN.md) /
+[**日本語**](https://github.com/saicaca/fuwari/blob/main/docs/README.ja.md) /
+[**한국어**](https://github.com/saicaca/fuwari/blob/main/docs/README.ko.md) /
+[**Español**](https://github.com/saicaca/fuwari/blob/main/docs/README.es.md) /
+[**ไทย**](https://github.com/saicaca/fuwari/blob/main/docs/README.th.md) /
+[**Tiếng Việt**](https://github.com/saicaca/fuwari/blob/main/docs/README.vi.md) /
+[**Bahasa Indonesia**](https://github.com/saicaca/fuwari/blob/main/docs/README.id.md) (Provided by the community and may not always be up-to-date)
 
-## Demo
+## ✨ Features
 
-> Submit a PR to add your blog Demo.
+- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
+- [x] Smooth animations and page transitions
+- [x] Light / dark mode
+- [x] Customizable theme colors & banner
+- [x] Responsive design
+- [x] Search functionality with [Pagefind](https://pagefind.app/)
+- [x] [Markdown extended features](https://github.com/saicaca/fuwari?tab=readme-ov-file#-markdown-extended-syntax)
+- [x] Table of contents
+- [x] RSS feed
 
-- [Live Demo](https://astro-theme-typography.vercel.app/)
-- [My Blog](https://blog.moeyua.com/)
-- [Julyfun's Blog (how to fully build this blog using `bun` in minutes)](https://julyfun.fun/posts/%E5%85%89%E9%80%9F%E6%90%AD%E5%BB%BA%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/)
-- [Jinx's Blog](https://blog.mytest.cc/)
+## 🚀 Getting Started
 
-## Getting Started
+1. Create your blog repository:
+    - [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
+    - Or run one of the following commands:
+       ```sh
+       npm create fuwari@latest
+       yarn create fuwari
+       pnpm create fuwari@latest
+       bun create fuwari@latest
+       deno run -A npm:create-fuwari@latest
+       ```
+2. To edit your blog locally, clone your repository, run `pnpm install` to install dependencies.
+    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
+3. Edit the config file `src/config.ts` to customize your blog.
+4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
+5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
 
-Typography is a minimal, responsive and SEO-friendly Astro blog theme. This guide will help you get started with a new project.
+## 📝 Frontmatter of Posts
 
-### Quick Start
-
-You can fork the repository to your account by clicking the Fork button in the upper right corner, click the button below, select the repository you just forked, click the Import button, and you will be taken to the project configuration page.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start)
-
-Or you can refer to the [Astro](https://docs.astro.build/guides/deploy/) documentation to deploy to your favorite platform.
-
-### Add post
-
-You can add content by creating a new markdown file in `src/content/posts`. The file need metadata in the frontmatter, like this:
-
-```md
+```yaml
 ---
-title: title
-pubDate: 2021-08-01
-categories: ["article"]
-description: "description"
+title: My First Blog Post
+published: 2023-09-09
+description: This is the first post of my new Astro blog.
+image: ./cover.jpg
+tags: [Foo, Bar]
+category: Front-end
+draft: false
+lang: jp      # Set only if the post's language differs from the site's language in `config.ts`
 ---
 ```
 
-Or, you can use the following command in your terminal to create a new post:
+## 🧩 Markdown Extended Syntax
 
-```bash
-pnpm new-post
-```
+In addition to Astro's default support for [GitHub Flavored Markdown](https://github.github.com/gfm/), several extra Markdown features are included:
 
-## Updating the theme
+- Admonitions ([Preview and Usage](https://fuwari.vercel.app/posts/markdown-extended/#admonitions))
+- GitHub repository cards ([Preview and Usage](https://fuwari.vercel.app/posts/markdown-extended/#github-repository-cards))
+- Enhanced code blocks with Expressive Code ([Preview](https://fuwari.vercel.app/posts/expressive-code/) / [Docs](https://expressive-code.com/))
 
-You can simply [`Sync Fork`](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) on your own forked project (do not click Discard Changes, otherwise you will lose your own changes).
+## ⚡ Commands
 
-## Customization
+All commands are run from the root of the project, from a terminal:
 
-Typography is highly customizable. The default configuration file is [src/.config/default.ts](src/.config/default.ts), you can override the default configuration in [src/.config/user.ts](src/.config/user.ts) as needed.
+| Command                    | Action                                              |
+|:---------------------------|:----------------------------------------------------|
+| `pnpm install`             | Installs dependencies                               |
+| `pnpm dev`                 | Starts local dev server at `localhost:4321`         |
+| `pnpm build`               | Build your production site to `./dist/`             |
+| `pnpm preview`             | Preview your build locally, before deploying        |
+| `pnpm check`               | Run checks for errors in your code                  |
+| `pnpm format`              | Format your code using Biome                        |
+| `pnpm new-post <filename>` | Create a new post                                   |
+| `pnpm astro ...`           | Run CLI commands like `astro add`, `astro check`    |
+| `pnpm astro --help`        | Get help using the Astro CLI                        |
 
-### Social links
+## ✏️ Contributing
 
-Typography has built-in support for adding links to your social media accounts to the site via the social option in the config file:
+Check out the [Contributing Guide](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md) for details on how to contribute to this project.
 
-```ts
-socials: [
-  {
-    name: 'github',
-    href: 'https://github.com/moeyua/astro-theme-typography'
-  }
-]
-```
+## 📄 License
 
-The `name` is the icon name in [Material Design Icons](https://pictogrammers.com/library/mdi/),
-which will be automatically generated as the icon.
+This project is licensed under the MIT License.
 
-> Note that you need to restart the development server to see the changes.
-
-### Navigation links
-
-By default, the navigation are `Posts`, `Archive`, `Categories` and `About`. You can add more in the config file:
-
-```ts
-{
-  navs: [
-    {
-      name: 'Categories',
-      href: '/categories'
-    }
-  ]
-}
-```
-
-And then add the corresponding page in `src/pages`, see more in [Astro Pages](https://docs.astro.build/en/core-concepts/astro-pages/)
-
-### Dark mode
-
-Typography supports dark mode. You can change it in the config file:
-
-```ts
-themeStyle: 'dark' // 'light' | 'dark' | 'system'
-```
-
-### Internationalization (i18n)
-
-Typography provides built-in support for multilingual sites. By default, the language is `en-us`, you can change it in the config file:
-
-```ts
-locale: 'zh-cn'
-```
-
-For now, Typography supports below languages:
-
-- `en-us`
-- `zh-cn`
-- `zh-tw`
-- `ja-jp`
-- `it-it`
-
-You can see all supported languages in [src/i18n.ts](src/i18n.ts), and add more if you need.
-
-### Comment
-
-Typography supports multiple comment services, currently supports [Disqus](https://disqus.com/), [Giscus](https://giscus.app/) and [Twikoo](https://twikoo.js.org/).
-
-Enable the corresponding comment service by adding the configuration to the config file, when you fill in multiple comment services, only the first service will be displayed.
-
-#### Disqus
-
-You can enable Disqus by adding the following configuration to the config file:
-
-```ts
-comments: {
-  disqus: {
-    shortname: 'your-disqus-shortname'
-  }
-}
-```
-
-#### Giscus
-
-Based on the [Giscus web component](https://github.com/giscus/giscus-component?tab=readme-ov-file#using-the-web-component) implementation.
-
-The prop names are the same as the data- attributes shown on the [giscus website](<(https://giscus.app/)>), but written in camelCase with the data- prefix and dashes removed.
-
-You can enable Giscus by adding the following configuration to the config file:
-
-```ts
-{
-  comments: {
-    giscus: {
-      repo: 'moeyua/astro-theme-typography'
-      repoId: 'R_kgDOKy9HOQ'
-      category: 'General'
-      categoryId: 'DIC_kwDOKy9HOc4CegmW'
-      mapping: 'title'
-      strict: '0'
-      reactionsEnabled: '1'
-      emitMetadata: '1'
-      inputPosition: 'top'
-      theme: 'light'
-      lang: 'zh-CN'
-      loading: 'lazy'
-    }
-  }
-}
-```
-
-#### Twikoo
-
-You can enable Twikoo by adding the following configuration to the config file:
-
-```ts
-{
-  comments: {
-    twikoo: {
-      envId: 'your-env-id'
-    }
-  }
-}
-```
-
-## Pagespeed Score
-
-[![Pagespeed Score](https://github.com/moeyua/astro-theme-typography/assets/45156493/2272f576-d6ff-49ef-a294-5c2acf365907)](https://pagespeed.web.dev/analysis/https-astro-theme-typography-vercel-app/j34nq9tx0s?form_factor=desktop)
-
-## TODO
-
-- [ ] WebSub
-- [x] comment
-- [ ] search
-- [ ] analytics
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_large&issueType=license)
