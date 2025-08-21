@@ -1,9 +1,9 @@
 ---
 title: 我如何实现外包的java项目生成器
-pubDate: 2025-07-20
-categories: ['golang','wsam','java','gradle']
+published: 2025-07-20
+tags: ['golang','wsam','java','gradle']
 description: '通过是golang编写生成器的逻辑然后编译为wasm在web上运行'
-slug: 'golang-wsam-gen-java-project'
+category: '技术'
 ---
 
 ## 为何做出这样的技术选型

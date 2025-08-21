@@ -1,9 +1,9 @@
 ---
 title: 我真的需要一个nas吗？
-pubDate: 2025-04-05
-categories: ['nas','飞牛os','fedora','杂谈']
+published: 2025-04-05
+tags: ['nas','飞牛os','fedora','杂谈']
 description: '我需要的并不是一个nas，而是一个下载器。'
-slug: do-i-really-need-a-NAS
+category: '杂谈'
 ---
 
 ## 我的真实用途

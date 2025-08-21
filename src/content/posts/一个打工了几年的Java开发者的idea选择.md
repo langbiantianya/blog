@@ -1,9 +1,9 @@
 ---
 title: 一个打工了几年的Java开发者打算换掉idea了
-pubDate: 2025-04-04
-categories: ['idea','vscode','eclipse','netbeans','杂谈']
+published: 2025-04-04
+tags: ['idea','vscode','eclipse','netbeans','杂谈']
 description: '为什么java开发者使用ide对钱包这么不友好'
-slug: 'ide-java-developer'
+category: '杂谈'
 ---
 
 ## 介绍下我自己

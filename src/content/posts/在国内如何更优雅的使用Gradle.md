@@ -1,9 +1,9 @@
 ---
 title: 在国内如何更优雅的使用Gradle
-pubDate: 2025-01-20
-categories: ['gradle','java','kotlin']
+published: 2025-01-20
+tags: ['gradle','java','kotlin']
 description: 'gradle 大势所趋'
-slug: 'how-to-use-gradle-better'
+category: '技术'
 ---
 
 # 在国内如何更优雅的使用Gradle

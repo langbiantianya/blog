@@ -1,9 +1,9 @@
 ---
 title: seatunnel使用中遇到的各种问题
-pubDate: 2025-03-25
-categories: ['java','seatunnel','大数据']
+published: 2025-03-25
+tags: ['java','seatunnel','大数据']
 description: 'seatunnel local 模式多开、多版本共存、内存溢出'
-slug: 'Various-issues-encountered-during-the-use-of-seatunnel.'
+category: '技术'
 ---
 
 # seatunnel使用中遇到的各种问题

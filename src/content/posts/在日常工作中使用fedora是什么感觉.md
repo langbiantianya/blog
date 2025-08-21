@@ -1,9 +1,9 @@
 ---
 title: 在日常工作中使用fedora是什么感觉
-pubDate: 2025-04-30
-categories: ['linux','fedora','idea','jetbrans','java']
+published: 2025-04-30
+tags: ['linux','fedora','idea','jetbrans','java']
 description: '不是说工作用不了，而是不太能用。'
-slug: 'using-fedora-in-work'
+category: '杂谈'
 ---
 
 ## 前情提要

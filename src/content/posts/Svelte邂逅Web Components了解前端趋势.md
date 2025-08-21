@@ -1,9 +1,9 @@
 ---
 title: Svelte邂逅Web Components了解前端趋势
-pubDate: 2025-01-19
-categories: ['前端','Svelte','Web Components']
+published: 2025-01-19
+tags: ['前端','Svelte','Web Components']
 description: '前端趋势回归初心'
-slug: 'svelte-meet-web-components'
+category: '杂谈'
 ---
 
 # Svelte邂逅Web Components了解前端趋势

@@ -1,9 +1,9 @@
 ---
 title: java或者kotlin在gradle中如何使用grpc
-pubDate: 2025-05-13
-categories: ['java','kotlin','idea','gradle']
+published: 2025-05-13
+tags: ['java','kotlin','idea','gradle']
 description: '都挺好的，安卓也可以用'
-slug: 'How-to-utilize-gRPC-with-Java-or-Kotlin-within-Gradle'
+category: '技术'
 ---
 
 ## gralde 配置

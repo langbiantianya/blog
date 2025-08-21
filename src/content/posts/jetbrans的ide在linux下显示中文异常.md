@@ -1,9 +1,9 @@
 ---
 title: jetbrans的ide在linux下显示中文异常
-pubDate: 2025-04-27
-categories: ['linux','fedora','idea','jetbrans']
+published: 2025-04-27
+tags: ['linux','fedora','idea','jetbrans']
 description: 'jetbrans的ide在linux下显示中文异常'
-slug: 'jetbrans-IDE-displays-Chinese-exception-on-Linux'
+category: '技术'
 ---
 
 ## 原因

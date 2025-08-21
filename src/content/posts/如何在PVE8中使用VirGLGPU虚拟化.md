@@ -1,9 +1,9 @@
 ---
 title: 如何在PVE8.3中使用VirGL GPU虚拟化
-pubDate: 2025-01-22
-categories: ['pve','虚拟化','GPU虚拟化','VirGL']
+published: 2025-01-22
+tags: ['pve','虚拟化','GPU虚拟化','VirGL']
 description: '在gpu不支持虚拟化的情况下，如何使用virgl进行硬件加速'
-slug: 'virgl-gpu-virtualization'
+category: '技术'
 ---
 
 # 如何在PVE8.3中使用VirGL GPU虚拟化
